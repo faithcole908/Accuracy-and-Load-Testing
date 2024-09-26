@@ -1,0 +1,25 @@
+Platform,Image,Precision,Recall,F1 Score,Load Level
+EC2,https://i.pinimg.com/736x/32/57/0a/32570ae14dc027d871d8abb0eed6dc31.jpg,0.0,1.0,0.0,10
+Google Compute,https://i.pinimg.com/736x/32/57/0a/32570ae14dc027d871d8abb0eed6dc31.jpg,0.0,1.0,0.0,10
+EC2,https://cf.ltkcdn.net/family/images/orig/200821-2121x1414-family.jpg,0.125,1.0,0.2222222222222222,10
+Lambda,https://i.pinimg.com/736x/32/57/0a/32570ae14dc027d871d8abb0eed6dc31.jpg,0.0,1.0,0.0,10
+Google Compute,https://cf.ltkcdn.net/family/images/orig/200821-2121x1414-family.jpg,0.125,1.0,0.2222222222222222,10
+Lambda,https://cf.ltkcdn.net/family/images/orig/200821-2121x1414-family.jpg,0.125,1.0,0.2222222222222222,10
+Cloud Run,https://i.pinimg.com/736x/32/57/0a/32570ae14dc027d871d8abb0eed6dc31.jpg,0.0,1.0,0.0,10
+Cloud Run,https://cf.ltkcdn.net/family/images/orig/200821-2121x1414-family.jpg,0.125,1.0,0.2222222222222222,10
+EC2,https://i.pinimg.com/736x/32/57/0a/32570ae14dc027d871d8abb0eed6dc31.jpg,0.0,1.0,0.0,50
+Google Compute,https://i.pinimg.com/736x/32/57/0a/32570ae14dc027d871d8abb0eed6dc31.jpg,0.0,1.0,0.0,50
+EC2,https://cf.ltkcdn.net/family/images/orig/200821-2121x1414-family.jpg,0.125,1.0,0.2222222222222222,50
+Lambda,https://i.pinimg.com/736x/32/57/0a/32570ae14dc027d871d8abb0eed6dc31.jpg,0.0,1.0,0.0,50
+Google Compute,https://cf.ltkcdn.net/family/images/orig/200821-2121x1414-family.jpg,0.125,1.0,0.2222222222222222,50
+Cloud Run,https://cf.ltkcdn.net/family/images/orig/200821-2121x1414-family.jpg,0.125,1.0,0.2222222222222222,50
+Lambda,https://cf.ltkcdn.net/family/images/orig/200821-2121x1414-family.jpg,0.125,1.0,0.2222222222222222,50
+Cloud Run,https://i.pinimg.com/736x/32/57/0a/32570ae14dc027d871d8abb0eed6dc31.jpg,0.0,1.0,0.0,50
+EC2,https://i.pinimg.com/736x/32/57/0a/32570ae14dc027d871d8abb0eed6dc31.jpg,0.0,1.0,0.0,100
+Cloud Run,https://i.pinimg.com/736x/32/57/0a/32570ae14dc027d871d8abb0eed6dc31.jpg,0.0,1.0,0.0,100
+Google Compute,https://i.pinimg.com/736x/32/57/0a/32570ae14dc027d871d8abb0eed6dc31.jpg,0.0,1.0,0.0,100
+Lambda,https://i.pinimg.com/736x/32/57/0a/32570ae14dc027d871d8abb0eed6dc31.jpg,0.0,1.0,0.0,100
+EC2,https://cf.ltkcdn.net/family/images/orig/200821-2121x1414-family.jpg,0.125,1.0,0.2222222222222222,100
+Google Compute,https://cf.ltkcdn.net/family/images/orig/200821-2121x1414-family.jpg,0.125,1.0,0.2222222222222222,100
+Lambda,https://cf.ltkcdn.net/family/images/orig/200821-2121x1414-family.jpg,0.125,1.0,0.2222222222222222,100
+Cloud Run,https://cf.ltkcdn.net/family/images/orig/200821-2121x1414-family.jpg,0.125,1.0,0.2222222222222222,100

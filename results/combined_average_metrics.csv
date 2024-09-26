@@ -1,0 +1,25 @@
+Platform,Image,Precision,Recall,F1 Score,Load Level,CPU Utilization
+EC2,https://i.pinimg.com/736x/32/57/0a/32570ae14dc027d871d8abb0eed6dc31.jpg,0.0,1.0,0.0,10,25
+Google Compute,https://i.pinimg.com/736x/32/57/0a/32570ae14dc027d871d8abb0eed6dc31.jpg,0.0,1.0,0.0,10,22
+EC2,https://cf.ltkcdn.net/family/images/orig/200821-2121x1414-family.jpg,0.125,1.0,0.2222222222222222,10,25
+Lambda,https://i.pinimg.com/736x/32/57/0a/32570ae14dc027d871d8abb0eed6dc31.jpg,0.0,1.0,0.0,10,30
+Google Compute,https://cf.ltkcdn.net/family/images/orig/200821-2121x1414-family.jpg,0.125,1.0,0.2222222222222222,10,22
+Lambda,https://cf.ltkcdn.net/family/images/orig/200821-2121x1414-family.jpg,0.125,1.0,0.2222222222222222,10,30
+Cloud Run,https://i.pinimg.com/736x/32/57/0a/32570ae14dc027d871d8abb0eed6dc31.jpg,0.0,1.0,0.0,10,28
+Cloud Run,https://cf.ltkcdn.net/family/images/orig/200821-2121x1414-family.jpg,0.125,1.0,0.2222222222222222,10,28
+EC2,https://i.pinimg.com/736x/32/57/0a/32570ae14dc027d871d8abb0eed6dc31.jpg,0.0,1.0,0.0,50,45
+Google Compute,https://i.pinimg.com/736x/32/57/0a/32570ae14dc027d871d8abb0eed6dc31.jpg,0.0,1.0,0.0,50,42
+EC2,https://cf.ltkcdn.net/family/images/orig/200821-2121x1414-family.jpg,0.125,1.0,0.2222222222222222,50,45
+Lambda,https://i.pinimg.com/736x/32/57/0a/32570ae14dc027d871d8abb0eed6dc31.jpg,0.0,1.0,0.0,50,50
+Google Compute,https://cf.ltkcdn.net/family/images/orig/200821-2121x1414-family.jpg,0.125,1.0,0.2222222222222222,50,42
+Cloud Run,https://cf.ltkcdn.net/family/images/orig/200821-2121x1414-family.jpg,0.125,1.0,0.2222222222222222,50,48
+Lambda,https://cf.ltkcdn.net/family/images/orig/200821-2121x1414-family.jpg,0.125,1.0,0.2222222222222222,50,50
+Cloud Run,https://i.pinimg.com/736x/32/57/0a/32570ae14dc027d871d8abb0eed6dc31.jpg,0.0,1.0,0.0,50,48
+EC2,https://i.pinimg.com/736x/32/57/0a/32570ae14dc027d871d8abb0eed6dc31.jpg,0.0,1.0,0.0,100,70
+Cloud Run,https://i.pinimg.com/736x/32/57/0a/32570ae14dc027d871d8abb0eed6dc31.jpg,0.0,1.0,0.0,100,72
+Google Compute,https://i.pinimg.com/736x/32/57/0a/32570ae14dc027d871d8abb0eed6dc31.jpg,0.0,1.0,0.0,100,68
+Lambda,https://i.pinimg.com/736x/32/57/0a/32570ae14dc027d871d8abb0eed6dc31.jpg,0.0,1.0,0.0,100,75
+EC2,https://cf.ltkcdn.net/family/images/orig/200821-2121x1414-family.jpg,0.125,1.0,0.2222222222222222,100,70
+Google Compute,https://cf.ltkcdn.net/family/images/orig/200821-2121x1414-family.jpg,0.125,1.0,0.2222222222222222,100,68
+Lambda,https://cf.ltkcdn.net/family/images/orig/200821-2121x1414-family.jpg,0.125,1.0,0.2222222222222222,100,75
+Cloud Run,https://cf.ltkcdn.net/family/images/orig/200821-2121x1414-family.jpg,0.125,1.0,0.2222222222222222,100,72

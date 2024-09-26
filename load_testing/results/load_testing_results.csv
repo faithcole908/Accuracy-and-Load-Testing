@@ -1,0 +1,6 @@
+Platform,Load 10,Load 50,Load 100
+Load (Users),10,50,100
+Amazon EC2 CPU (%),25,45,70
+AWS Lambda CPU (%),30,50,75
+Google Cloud Run CPU (%),28,48,72
+Google Compute Engine CPU (%),22,42,68
